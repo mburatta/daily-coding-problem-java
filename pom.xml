@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
 
     <modules>
+    <module>exercises/ex002-knight-path</module>
         <module>exercises/ex001-two-sum</module>
     </modules>
 

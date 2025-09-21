@@ -5,3 +5,6 @@
  .mvn/
  !/.mvn/wrapper/
  .DS_Store
+ **/.DS_Store
+
+**/target/

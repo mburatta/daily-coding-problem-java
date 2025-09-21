@@ -4,7 +4,7 @@ ID="$1"           # es: 002
 SLUG="$2"         # es: linked-list-cycle
 ARTIFACT="ex${ID}-${SLUG}"
 BASE="exercises/${ARTIFACT}"
-PKG="io/github/mburatta/ex${ID}"
+PKG="it/mburatta/ex${ID}"
 
 mkdir -p "${BASE}/src/main/java/${PKG}" "${BASE}/src/test/java/${PKG}"
 
